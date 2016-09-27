@@ -2788,4 +2788,141 @@ Jƒ∑84A¢uzê’Z∞%´äpˇÖÕ•È&À£/∞,O<‹†ﬁ<=¨9î«æëÚàô÷˚U·Èe¢vhØ˜›},˜âE\/‡üÚ¬À_.uÔﬂ
 0000303720 00000 n
 0000303637 00000 n
 0000303672 00000 n
-trailer<</Size 279/Root 225 0 R/Info 223 0 R/ID[<A21EF256BBD3E86839EE57F90004FEC7><ECE5FAADA2FF4CBAA5941A9C4A2E6E66>]>>startxref693791%%EOF
+trailer<</Size 279/Root 225 0 R/Info 223 0 R/ID[<A21EF256BBD3E86839EE57F90004FEC7><ECE5FAADA2FF4CBAA5941A9C4A2E6E66>]>>startxref693791%%EOF2 0 obj<</Annots 279 0 R/BleedBox[0 0 612 792]/Contents 233 0 R/Parent 17 0 R/Resources<</ExtGState<</GS0 15 0 R/GS1 16 0 R/GS2 234 0 R>>/Font<</T1_0 5 0 R/T1_1 6 0 R/T1_2 7 0 R/T1_3 8 0 R/T1_4 9 0 R/T1_5 10 0 R/T1_6 11 0 R/T1_7 12 0 R/T1_8 13 0 R/T1_9 14 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 235 0 R>>>>/TrimBox[0 0 612 792]/Type/Page>>endobj223 0 obj<</Author(Maximilian Nickel, Lorenzo Rosasco, Tomaso Poggio)/CreationDate(D:20160123192059-08'00')/Creator(TeX)/GTS_PDFXConformance(PDF/X-1a:2001)/GTS_PDFXVersion(PDF/X-1:2001)/Keywords(Technical Papers: Machine Learning Methods)/ModDate(D:20160927151949+08'00')/PTEX.Fullbanner(This is pdfTeX, Version 3.14159265-2.6-1.40.16 \(TeX Live 2015\) kpathsea version 6.2.1)/Producer(Acrobat Distiller 15.0 \(Macintosh\))/Subject(Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence \(AAAI-16\))/Title(Holographic Embeddings of Knowledge Graphs)/Trapped/False>>endobj224 0 obj<</Length 5104/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 81.157285, 2014/12/12-00:43:15        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdfxid="http://www.npes.org/pdfx/ns/id/">
+         <xmp:CreatorTool>TeX</xmp:CreatorTool>
+         <xmp:MetadataDate>2016-09-27T15:19:49+08:00</xmp:MetadataDate>
+         <xmp:CreateDate>2016-01-23T19:20:59-08:00</xmp:CreateDate>
+         <xmp:ModifyDate>2016-09-27T15:19:49+08:00</xmp:ModifyDate>
+         <pdf:Trapped>False</pdf:Trapped>
+         <pdf:Keywords>Technical Papers: Machine Learning Methods</pdf:Keywords>
+         <pdf:Producer>Acrobat Distiller 15.0 (Macintosh)</pdf:Producer>
+         <pdf:GTS_PDFXConformance>PDF/X-1a:2001</pdf:GTS_PDFXConformance>
+         <pdf:GTS_PDFXVersion>PDF/X-1:2001</pdf:GTS_PDFXVersion>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Holographic Embeddings of Knowledge Graphs</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Maximilian Nickel, Lorenzo Rosasco, Tomaso Poggio</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16)</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:rights>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Copyright(C) 2016, Association for the Advancement of Artificial Intelligence</rdf:li>
+            </rdf:Alt>
+         </dc:rights>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Technical Papers: Machine Learning Methods</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <xmpMM:InstanceID>uuid:db9c609b-501d-4d82-96dd-6bb362449faa</xmpMM:InstanceID>
+         <xmpMM:DocumentID>uuid:55573de5-75e0-2144-bf20-27b8c9400aa8</xmpMM:DocumentID>
+         <xmpMM:VersionID>1</xmpMM:VersionID>
+         <xmpRights:WebStatement>http://www.aaai.org</xmpRights:WebStatement>
+         <xmpRights:Marked>True</xmpRights:Marked>
+         <pdfx:PTEX.Fullbanner>This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) kpathsea version 6.2.1</pdfx:PTEX.Fullbanner>
+         <pdfx:GTS_PDFXConformance>PDF/X-1a:2001</pdfx:GTS_PDFXConformance>
+         <pdfx:GTS_PDFXVersion>PDF/X-1:2001</pdfx:GTS_PDFXVersion>
+         <pdfxid:GTS_PDFXVersion>PDF/X-1:2001</pdfxid:GTS_PDFXVersion>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj279 0 obj[280 0 R 281 0 R 282 0 R 283 0 R]endobj280 0 obj<</AP<</N 287 0 R>>/C[1.0 1.0 0.0]/Contents(˛ˇYRüÄ˝vÑ)/CreationDate(D:20160927150626+08'00')/F 4/IT/HighlightNote/M(D:20160927150631+08'00')/NM(5541ea23-9e78-46ce-9916-47c47eac18a9)/P 2 0 R/Popup 281 0 R/QuadPoints[80.3148 546.559 111.162 546.559 80.3148 535.755 111.162 535.755]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:15.6.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">&#22810;&#21151;&#33021;&#30340;</span></p></body>)/Rect[77.4307 535.418 114.046 546.897]/Subj(˛ˇW\(eág,N\nlËë )/Subtype/Highlight/T(Liuzhu)/Type/Annot>>endobj281 0 obj<</F 28/Open false/Parent 280 0 R/Rect[612.0 426.559 792.0 546.559]/Subtype/Popup/Type/Annot>>endobj282 0 obj<</AP<</N 284 0 R>>/C[1.0 1.0 0.0]/Contents(˛ˇ_™sØv¯Qs)/CreationDate(D:20160927151509+08'00')/F 4/IT/HighlightNote/M(D:20160927151514+08'00')/NM(596e80c2-b0c2-4727-b23b-1c48f0f060fa)/P 2 0 R/Popup 283 0 R/QuadPoints[178.901 496.745 248.826 496.745 178.901 485.941 248.826 485.941]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:15.6.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">&#24490;&#29615;&#30456;&#20851;</span></p></body>)/Rect[176.017 485.603 251.71 497.082]/Subj(˛ˇW\(eág,N\nlËë )/Subtype/Highlight/T(Liuzhu)/Type/Annot>>endobj283 0 obj<</F 28/Open false/Parent 282 0 R/Rect[612.0 376.745 792.0 496.745]/Subtype/Popup/Type/Annot>>endobj284 0 obj<</BBox[0.0 0.0 75.6929 11.4792]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 285 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj285 0 obj<</BBox[0.0 0.0 75.6929 11.4792]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 286 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj286 0 obj<</BBox[176.017 485.603 251.71 497.082]/FormType 1/Length 170/Matrix[1.0 0.0 0.0 1.0 -176.017 -485.603]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 1 0 rg
+0.6752 w
+178.9011 485.9406 m
+176.3546 488.4871 176.3546 494.198 178.9011 496.7445 c
+248.8258 496.7445 l
+251.3723 494.198 251.3723 488.4871 248.8258 485.9406 c
+f
+
+endstreamendobj287 0 obj<</BBox[0.0 0.0 36.6154 11.4792]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 288 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj288 0 obj<</BBox[0.0 0.0 36.6154 11.4792]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 289 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj289 0 obj<</BBox[77.4307 535.418 114.046 546.897]/FormType 1/Length 168/Matrix[1.0 0.0 0.0 1.0 -77.4307 -535.418]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 1 0 rg
+0.6752 w
+80.3148 535.7554 m
+77.7683 538.3019 77.7683 544.0128 80.3148 546.5593 c
+111.1619 546.5593 l
+113.7084 544.0128 113.7084 538.3019 111.1619 535.7554 c
+f
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+2 1
+0000699526 00000 n
+223 2
+0000699874 00000 n
+0000700465 00000 n
+279 11
+0000705648 00000 n
+0000705699 00000 n
+0000706443 00000 n
+0000706555 00000 n
+0000707298 00000 n
+0000707410 00000 n
+0000707695 00000 n
+0000707931 00000 n
+0000708297 00000 n
+0000708582 00000 n
+0000708818 00000 n
+trailer
+<</Size 290/Root 225 0 R/Info 223 0 R/ID[<A21EF256BBD3E86839EE57F90004FEC7><584ADB0EE6A5D24F9683F88D5E1D3626>]/Prev 693791>>
+startxref
+709183
+%%EOF

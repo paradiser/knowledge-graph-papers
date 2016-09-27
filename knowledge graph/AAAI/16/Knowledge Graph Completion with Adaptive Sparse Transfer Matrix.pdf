@@ -2941,4 +2941,136 @@ Jƒ∑84A¢uzê’Z∞%´äpˇÖÕ•È&À£/∞,O<‹†ﬁ<=¨9î«æëÚàô÷˚U·Èe¢vhØ˜›},˜âE\/‡üÚ¬À_.uÔﬂ
 0000352845 00000 n
 0000352762 00000 n
 0000352797 00000 n
-trailer<</Size 231/Root 177 0 R/Info 175 0 R/ID[<F4CC36AD4047E68B8ED2B6D78354C44D><975C9904188E4FAB95B555B7F1AC6469>]>>startxref742940%%EOF
+trailer<</Size 231/Root 177 0 R/Info 175 0 R/ID[<F4CC36AD4047E68B8ED2B6D78354C44D><975C9904188E4FAB95B555B7F1AC6469>]>>startxref742940%%EOF2 0 obj<</Annots 232 0 R/BleedBox[0 0 612 792]/Contents 185 0 R/Parent 15 0 R/Resources<</ExtGState<</GS0 13 0 R/GS1 14 0 R/GS2 186 0 R>>/Font<</T1_0 5 0 R/T1_1 6 0 R/T1_2 7 0 R/T1_3 8 0 R/T1_4 9 0 R/T1_5 10 0 R/T1_6 11 0 R/T1_7 12 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 187 0 R>>>>/TrimBox[0 0 612 792]/Type/Page>>endobj175 0 obj<</Author(Guoliang Ji, Kang Liu, Shizhu He, Jun Zhao)/CreationDate(D:20160123191638-08'00')/Creator(TeX)/GTS_PDFXConformance(PDF/X-1a:2001)/GTS_PDFXVersion(PDF/X-1:2001)/Keywords(Technical Papers: Knowledge Representation and Reasoning)/ModDate(D:20160927145807+08'00')/PTEX.Fullbanner(This is pdfTeX, Version 3.14159265-2.6-1.40.16 \(TeX Live 2015\) kpathsea version 6.2.1)/Producer(Acrobat Distiller 15.0 \(Macintosh\))/Subject(Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence \(AAAI-16\))/Title(Knowledge Graph Completion with Adaptive Sparse Transfer Matrix)/Trapped/False>>endobj176 0 obj<</Length 5146/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 81.157285, 2014/12/12-00:43:15        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfxid="http://www.npes.org/pdfx/ns/id/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Knowledge Graph Completion with Adaptive Sparse Transfer Matrix</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Guoliang Ji, Kang Liu, Shizhu He, Jun Zhao</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:rights>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Copyright(C) 2016, Association for the Advancement of Artificial Intelligence</rdf:li>
+            </rdf:Alt>
+         </dc:rights>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16)</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Technical Papers: Knowledge Representation and Reasoning</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <xmp:MetadataDate>2016-09-27T14:58:07+08:00</xmp:MetadataDate>
+         <xmp:CreateDate>2016-01-23T19:16:38-08:00</xmp:CreateDate>
+         <xmp:ModifyDate>2016-09-27T14:58:07+08:00</xmp:ModifyDate>
+         <xmp:CreatorTool>TeX</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:73b38a82-cf2e-4183-b480-f5dbbd838316</xmpMM:InstanceID>
+         <xmpMM:DocumentID>uuid:8496dc0a-17cd-334b-9cd1-22414be124c8</xmpMM:DocumentID>
+         <xmpMM:VersionID>1</xmpMM:VersionID>
+         <xmpRights:WebStatement>http://www.aaai.org</xmpRights:WebStatement>
+         <xmpRights:Marked>True</xmpRights:Marked>
+         <pdfx:PTEX.Fullbanner>This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) kpathsea version 6.2.1</pdfx:PTEX.Fullbanner>
+         <pdfx:GTS_PDFXConformance>PDF/X-1a:2001</pdfx:GTS_PDFXConformance>
+         <pdfx:GTS_PDFXVersion>PDF/X-1:2001</pdfx:GTS_PDFXVersion>
+         <pdf:Trapped>False</pdf:Trapped>
+         <pdf:Producer>Acrobat Distiller 15.0 (Macintosh)</pdf:Producer>
+         <pdf:Keywords>Technical Papers: Knowledge Representation and Reasoning</pdf:Keywords>
+         <pdf:GTS_PDFXConformance>PDF/X-1a:2001</pdf:GTS_PDFXConformance>
+         <pdf:GTS_PDFXVersion>PDF/X-1:2001</pdf:GTS_PDFXVersion>
+         <pdfxid:GTS_PDFXVersion>PDF/X-1:2001</pdfxid:GTS_PDFXVersion>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj177 0 obj<</AcroForm 179 0 R/Metadata 176 0 R/OCProperties<</D<</Order[]/RBGroups[]>>/OCGs[180 0 R]>>/Outlines 231 0 R/OutputIntents[174 0 R]/PageLabels 172 0 R/Pages 15 0 R/Type/Catalog>>endobj231 0 obj<</Count 0/Type/Outlines>>endobj232 0 obj[233 0 R 234 0 R 235 0 R 236 0 R]endobj233 0 obj<</AP<</N 240 0 R>>/C[1.0 1.0 0.0]/Contents(˛ˇepP<zzïÙ)/CreationDate(D:20160927143251+08'00')/F 4/IT/HighlightNote/M(D:20160927143257+08'00')/NM(bae343b5-f014-4a81-8fd7-c5e8c6ae0b21)/P 2 0 R/Popup 234 0 R/QuadPoints[190.202 547.131 248.779 547.131 190.202 536.327 248.779 536.327]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:15.6.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">&#25968;&#20540;&#31354;&#38388;</span></p></body>)/Rect[187.318 535.989 251.664 547.469]/Subj(˛ˇW\(eág,N\nlËë )/Subtype/Highlight/T(Liuzhu)/Type/Annot>>endobj234 0 obj<</F 28/Open false/Parent 233 0 R/Rect[612.0 427.131 792.0 547.131]/Subtype/Popup/Type/Annot>>endobj235 0 obj<</AP<</N 237 0 R>>/C[1.0 1.0 0.0]/CreationDate(D:20160927143349+08'00')/F 4/M(D:20160927143349+08'00')/NM(17d0ca8b-6174-456a-9884-934b387c4e74)/P 2 0 R/Popup 236 0 R/QuadPoints[228.936 537.17 282.537 537.17 228.936 526.365 282.537 526.365 63.963 527.208 282.539 527.208 63.963 516.404 282.539 516.404 63.963 517.246 282.537 517.246 63.963 506.442 282.537 506.442 63.963 507.285 282.536 507.285 63.963 496.48 282.536 496.48 63.963 497.323 130.979 497.323 63.963 486.518 130.979 486.518]/Rect[61.0787 486.181 285.423 537.507]/Subj(˛ˇöÿNÆ)/Subtype/Highlight/T(Liuzhu)/Type/Annot>>endobj236 0 obj<</F 28/Open false/Parent 235 0 R/Rect[612.0 417.17 792.0 537.17]/Subtype/Popup/Type/Annot>>endobj237 0 obj<</BBox[0.0 0.0 224.344 51.3264]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 238 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj238 0 obj<</BBox[0.0 0.0 224.344 51.3264]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 239 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj239 0 obj<</BBox[61.0787 486.181 285.423 537.507]/Filter[/FlateDecode]/FormType 1/Length 263/Matrix[1.0 0.0 0.0 1.0 -61.0787 -486.181]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLí;nƒ0D{üB' ƒØ®Û,ê4õ&MÆüŸB§:„Ÿo8¢ÃÉ«øﬂœ§XÆ„ÔI⁄Í1\Ç4\∆s·séj"{¥•ã8vå◊#)‰´ŸÃi¶Íe©ÚNÉ◊ÛıÑ“|≈A6’—*òå√Ä ˙‰Q@ê¨„8≤HÊ⁄’)£ŸÈÑ1Â59—Ìù˘wß	fh~uö3≠;1≤7vPÁ¿|È=e≥⁄”Â59—Ìù˘W'€`9ÂÍd{”|ﬂ%çñbuÃOÛÓ‰Õ™∑W§¢À´˘wß¬FÔª≥ÑﬁwgŸ+ÍÓl/“œÚzX'ÌïŸÏ¶‰‚ó◊‰D∑wÊ:˝0 ¬î€
+endstreamendobj240 0 obj<</BBox[0.0 0.0 64.346 11.4797]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 241 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj241 0 obj<</BBox[0.0 0.0 64.346 11.4797]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 242 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj242 0 obj<</BBox[187.318 535.989 251.664 547.469]/FormType 1/Length 172/Matrix[1.0 0.0 0.0 1.0 -187.318 -535.989]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 1 0 rg
+0.6753 w
+190.2018 536.3268 m
+187.6552 538.8735 187.6552 544.5846 190.2018 547.1312 c
+248.7793 547.1312 l
+251.3259 544.5846 251.3259 538.8735 248.7793 536.3268 c
+f
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+2 1
+0000747715 00000 n
+175 3
+0000748039 00000 n
+0000748658 00000 n
+0000753883 00000 n
+231 12
+0000754080 00000 n
+0000754124 00000 n
+0000754175 00000 n
+0000754919 00000 n
+0000755031 00000 n
+0000755627 00000 n
+0000755737 00000 n
+0000756022 00000 n
+0000756258 00000 n
+0000756739 00000 n
+0000757023 00000 n
+0000757258 00000 n
+trailer
+<</Size 243/Root 177 0 R/Info 175 0 R/ID[<F4CC36AD4047E68B8ED2B6D78354C44D><1618C2F44B45654E99E011059B3FD4D5>]/Prev 742940>>
+startxref
+757627
+%%EOF
