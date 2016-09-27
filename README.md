@@ -1,3 +1,3 @@
 #Knowledge Graph Papers
 
-* Personal Usage
+* **Personal Usage**
