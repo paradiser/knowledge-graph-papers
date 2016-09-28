@@ -5,4 +5,5 @@
 ### Abstract ###
 
 * 现有的方法侧重于学习如何表示知识三元组（实体-关系-实体），但是现有的方法很难利用好知识图谱中实体的**精炼的描述**；
-* 本文提出了`Type-embodied Knowledge Representation Learning (TKRL)`算法，利用了层次化的实体类型。
+* 本文提出了`Type-embodied Knowledge Representation Learning (TKRL)`算法，利用了层次化的实体类型，我们认为实体应该有多种的**表示形式**；
+* 作者提供的[源码地址](https://github.com/thunlp/TKRL)
