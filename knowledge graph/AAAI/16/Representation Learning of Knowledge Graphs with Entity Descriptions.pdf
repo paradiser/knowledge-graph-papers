@@ -2860,3 +2860,146 @@ trailer
 startxref
 683715
 %%EOF
+163 0 obj<</Author(Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun)/CreationDate(D:20160123192325-08'00')/Creator(TeX)/GTS_PDFXConformance(PDF/X-1a:2001)/GTS_PDFXVersion(PDF/X-1:2001)/Keywords(Technical Papers: Natural Language Processing and Knowledge Representation)/ModDate(D:20160929192659+08'00')/PTEX.Fullbanner(This is pdfTeX, Version 3.14159265-2.6-1.40.16 \(TeX Live 2015\) kpathsea version 6.2.1)/Producer(Acrobat Distiller 15.0 \(Macintosh\))/Subject(Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence \(AAAI-16\))/Title(Representation Learning of Knowledge Graphs with Entity Descriptions)/Trapped/False>>endobj164 0 obj<</Length 5203/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 84.158975, 2016/02/13-02:40:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdfxid="http://www.npes.org/pdfx/ns/id/">
+         <xmp:CreateDate>2016-01-23T19:23:25-08:00</xmp:CreateDate>
+         <xmp:CreatorTool>TeX</xmp:CreatorTool>
+         <xmp:ModifyDate>2016-09-29T19:26:59+08:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2016-09-29T19:26:59+08:00</xmp:MetadataDate>
+         <pdfx:PTEX.Fullbanner>This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) kpathsea version 6.2.1</pdfx:PTEX.Fullbanner>
+         <pdfx:GTS_PDFXConformance>PDF/X-1a:2001</pdfx:GTS_PDFXConformance>
+         <pdfx:GTS_PDFXVersion>PDF/X-1:2001</pdfx:GTS_PDFXVersion>
+         <pdf:Producer>Acrobat Distiller 15.0 (Macintosh)</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+         <pdf:Keywords>Technical Papers: Natural Language Processing and Knowledge Representation</pdf:Keywords>
+         <pdf:GTS_PDFXConformance>PDF/X-1a:2001</pdf:GTS_PDFXConformance>
+         <pdf:GTS_PDFXVersion>PDF/X-1:2001</pdf:GTS_PDFXVersion>
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Representation Learning of Knowledge Graphs with Entity Descriptions</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:rights>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Copyright(C) 2016 Association for the Advancement of Artificial Intelligence</rdf:li>
+            </rdf:Alt>
+         </dc:rights>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16)</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Technical Papers: Natural Language Processing and Knowledge Representation</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <xmpRights:Marked>True</xmpRights:Marked>
+         <xmpRights:WebStatement>http://www.aaai.org</xmpRights:WebStatement>
+         <xmpMM:DocumentID>uuid:3ea24ff4-da38-0d4a-97f2-be27f96b6776</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:3e995c33-d7f9-4796-94ed-a316a5d2d825</xmpMM:InstanceID>
+         <xmpMM:VersionID>1</xmpMM:VersionID>
+         <pdfxid:GTS_PDFXVersion>PDF/X-1:2001</pdfxid:GTS_PDFXVersion>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj165 0 obj<</AcroForm 167 0 R/Metadata 164 0 R/Names 219 0 R/OCProperties<</D<</Order[]/RBGroups[]>>/OCGs[168 0 R]>>/Outlines 236 0 R/OutputIntents[162 0 R]/PageLabels 160 0 R/Pages 23 0 R/Type/Catalog>>endobj221 0 obj[222 0 R 223 0 R 224 0 R 225 0 R 237 0 R 238 0 R 239 0 R 240 0 R]endobj236 0 obj<</Count 1/First 249 0 R/Last 249 0 R/Type/Outlines>>endobj237 0 obj<</AP<</N 246 0 R>>/BS 245 0 R/C[1.0 1.0 0.0]/Contents(þÿNÅNÅ)/CreationDate(D:20160929185832+08'00')/F 4/IT/HighlightNote/M(D:20160929185839+08'00')/NM(beca3b16-b002-46ca-bbd0-1f1582012bf2)/P 2 0 R/Popup 238 0 R/QuadPoints[436.307 553.324 460.108 553.324 436.307 541.319 460.108 541.319]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:15.6.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.0pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">&#20165;&#20165;</span></p></body>)/Rect[433.102 540.944 463.313 553.699]/Subj(þÿW\(e‡g,N\nlè‘Ê)/Subtype/Highlight/T(Liuzhu)/Type/Annot>>endobj238 0 obj<</F 28/Open false/Parent 237 0 R/Rect[612.0 433.324 792.0 553.324]/Subtype/Popup/Type/Annot>>endobj239 0 obj<</AP<</N 242 0 R>>/BS 241 0 R/C[1.0 1.0 0.0]/Contents(þÿP<_—kc‰Æ)/CreationDate(D:20160929190321+08'00')/F 4/IT/HighlightNote/M(D:20160929190332+08'00')/NM(1a827efa-41dc-4318-8ed7-a95f36e06599)/P 2 0 R/Popup 240 0 R/QuadPoints[349.457 362.218 394.908 362.218 349.457 350.212 394.908 350.212]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:15.6.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.0pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">&#20540;&#24471;&#27491;&#35270;</span></p></body>)/Rect[346.252 349.837 398.113 362.593]/Subj(þÿW\(e‡g,N\nlè‘Ê)/Subtype/Highlight/T(Liuzhu)/Type/Annot>>endobj240 0 obj<</F 28/Open false/Parent 239 0 R/Rect[612.0 242.218 792.0 362.218]/Subtype/Popup/Type/Annot>>endobj241 0 obj<</W 14.0>>endobj242 0 obj<</BBox[0.0 0.0 51.8607 12.7556]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 243 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj243 0 obj<</BBox[0.0 0.0 51.8607 12.7556]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 244 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj244 0 obj<</BBox[346.252 349.837 398.113 362.593]/FormType 1/Length 170/Matrix[1.0 0.0 0.0 1.0 -346.252 -349.837]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 1 0 rg
+0.7503 w
+349.4571 350.2124 m
+346.6274 353.0421 346.6274 359.388 349.4571 362.2177 c
+394.9081 362.2177 l
+397.7378 359.388 397.7378 353.0421 394.9081 350.2124 c
+f
+
+endstreamendobj245 0 obj<</W 14.0>>endobj246 0 obj<</BBox[0.0 0.0 30.2114 12.7556]/FormType 1/Length 20/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 247 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/MWFOForm Do
+
+endstreamendobj247 0 obj<</BBox[0.0 0.0 30.2114 12.7556]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 248 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj248 0 obj<</BBox[433.102 540.944 463.313 553.699]/FormType 1/Length 172/Matrix[1.0 0.0 0.0 1.0 -433.102 -540.944]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 1 0 rg
+0.7503 w
+436.3065 541.3189 m
+433.4769 544.1486 433.4769 550.4945 436.3065 553.3242 c
+460.1082 553.3242 l
+462.9379 550.4945 462.9379 544.1486 460.1082 541.3189 c
+f
+
+endstreamendobj249 0 obj<</A 250 0 R/Parent 236 0 R/Title(solely)>>endobj250 0 obj<</D[2 0 R/FitH 727]/S/GoTo>>endobjxref
+0 1
+0000000000 65535 f
+163 3
+0000688597 00000 n
+0000689256 00000 n
+0000694538 00000 n
+221 1
+0000694749 00000 n
+236 15
+0000694832 00000 n
+0000694903 00000 n
+0000695638 00000 n
+0000695750 00000 n
+0000696505 00000 n
+0000696617 00000 n
+0000696646 00000 n
+0000696931 00000 n
+0000697167 00000 n
+0000697534 00000 n
+0000697563 00000 n
+0000697848 00000 n
+0000698084 00000 n
+0000698453 00000 n
+0000698514 00000 n
+trailer
+<</Size 251/Root 165 0 R/Info 163 0 R/ID[<66DB5C964C68772F914825236BFBA7E6><208C02DB9602EA46A56A846F306A6C23>]/Prev 683715>>
+startxref
+698561
+%%EOF
