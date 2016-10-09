@@ -7,6 +7,7 @@
 * [作者分享的源码](https://github.com/xrb92/DKRL)。
 
 
+
 ### Introduction ###
 
 #### Motivation ####
@@ -22,4 +23,12 @@ Learning (DKRL).*，其中三元组建模采用了传统的`TransE`算法，实�
 
 * 两个基准：知识图谱补全（knowledge graph completion）和实体类型分类（entity type classification）。
 
+
+
+### Methodology ###
+
+* **Continuous Bag-of-words Encoder：**用传统的文本特征提取方法，如`TF-IDF`，来选出top n个实体描述的关键词，将这些关键词的embedding加和，便是这个实体的embedding；
+* **Convolutional Neural Network Encoder：**因为CBOW忽略了描述中的**词序信息**，需要CNN来挖掘隐藏在词序中的文本信息。
+
+#### 
 
