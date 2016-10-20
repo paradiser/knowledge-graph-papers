@@ -20,3 +20,38 @@
 * 本文解决上述问题的方法：
 	* 在协同过滤的方法中加入了item的文本内容和可视化内容；
 	* 设计了三种embedding的模块，分别表示item的结构，文本和可视化信息。
+
+
+### Preliminary ###
+
+本文针对用户的隐式反馈信息来考虑推荐这个问题。
+
+![公式1](../images/1.png)
+
+隐式反馈如上公式，user i和 item j有交互就可以设为1(有交互表示user关注过此item)。
+
+本文把item以及和item相关的属性都看做**item entities**。
+
+**提出问题**
+
+* 在给定了结构信息、文本信息、图像信息和用户的隐式反馈信息后，我们给每一个用户推荐一个可能感兴趣的items列表。
+
+
+### Overview ###
+
+下图是模型框架图：![figure2](../images/2.png)
+
+模型分为两步：先知识库embedding，再联合学习。
+
+### Knowledge Base Embedding ###
+
+#### Structural Embedding ####
+
+**TransR：**
+TransR认为实体和关系不在同一个特征空间，所以实体需要通过投影矩阵**M*****r***投影到关系空间，如图所示：![figure2](../images/3.png)
+
+投影后的实体向量为：![figure3](../images/4.png)
+
+打分函数设为： ![figure4](../images/5.png)
+
+**Bayesian TransR：**
