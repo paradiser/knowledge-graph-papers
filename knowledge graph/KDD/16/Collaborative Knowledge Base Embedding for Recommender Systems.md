@@ -54,4 +54,18 @@ TransR认为实体和关系不在同一个特征空间，所以实体需要通�
 
 打分函数设为： ![figure4](https://raw.githubusercontent.com/paradiser/knowledge-graph-papers/master/knowledge%20graph/KDD/16/images/5.png)
 
-**Bayesian TransR：**
+#### Textual Embedding ####
+
+#### Visual Embedding ####
+
+### Collaborative Learning ###
+
+提取了实体的三种特征，它们的最终表示为：
+
+![figure5](https://raw.githubusercontent.com/paradiser/knowledge-graph-papers/master/knowledge%20graph/KDD/16/images/6.png)
+
+用户的特征向量为**U*****i***，所以最终的预测问题变成了：
+
+![figure6](https://raw.githubusercontent.com/paradiser/knowledge-graph-papers/master/knowledge%20graph/KDD/16/images/7.png)
+
+即给定了用户i，为用户i推荐一个感兴趣的item列表。
