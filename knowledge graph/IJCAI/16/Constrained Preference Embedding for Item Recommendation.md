@@ -17,4 +17,7 @@
 我们的算法CPE(constrained preference embedding)：
 
 * 我们不把行为看做是数值，而是把它们和user，item一起表示在高维空间，即所有实体和行为都由D维的向量表示。
-* 
+
+### Constrained Preference Embedding ###
+
+* [fig.1](https://raw.githubusercontent.com/paradiser/knowledge-graph-papers/master/knowledge%20graph/IJCAI/16/images/1.png)
