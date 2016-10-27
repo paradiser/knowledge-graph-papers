@@ -20,4 +20,4 @@
 
 ### Constrained Preference Embedding ###
 
-* [fig.1](https://raw.githubusercontent.com/paradiser/knowledge-graph-papers/master/knowledge%20graph/IJCAI/16/images/1.png)
+* ![fig.1](https://raw.githubusercontent.com/paradiser/knowledge-graph-papers/master/knowledge%20graph/IJCAI/16/images/1.png)
