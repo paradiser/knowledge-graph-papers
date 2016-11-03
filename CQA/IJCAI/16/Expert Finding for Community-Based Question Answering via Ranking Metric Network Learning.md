@@ -13,3 +13,12 @@
 ### Introduction ###
 
 * **Recent works:** Most of the existing works consider the expert finding problem as content-based expert recommendation task, which learns the user model from their past question-answering activities voted by the community through thumb-ups/downs, and then predicts users’ performance for answering the questions.
+
+***
+### Related Work ###
+
+* **expert finding:** two types, authority-based approaches and topic-based approaches.
+
+* **deep content-based recommendation**
+
+* **network learning**
